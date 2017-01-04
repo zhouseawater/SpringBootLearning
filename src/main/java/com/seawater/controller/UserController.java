@@ -1,6 +1,6 @@
 package com.seawater.controller;
 
-import com.seawater.dao.UserDao;
+import com.seawater.Dao.UserDao;
 import com.seawater.bean.User;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiImplicitParam;
