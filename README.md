@@ -1,6 +1,6 @@
 # SpringBootLearning
 Spring Boot 学习
-#源码跟随Spring Boot的学习而增加，从项目开始建立到加入各种插件。
+#源码跟随Spring Boot的学习而增加，从项目开始建立到加入使用的插件。
 主要过程如下  
 
   1.用maven搭建项目.  
