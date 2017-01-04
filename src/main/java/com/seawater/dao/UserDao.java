@@ -1,4 +1,4 @@
-package com.seawater.Dao;
+package com.seawater.dao;
 
 import com.seawater.bean.User;
 import org.springframework.data.repository.CrudRepository;
